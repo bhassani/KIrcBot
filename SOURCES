@@ -1,0 +1,7 @@
+TARGETNAME=KIRCBOT
+TARGETPATH=OBJ
+TARGETTYPE=DRIVER
+SOURCES=	socket.c \
+		unixwrap.c \
+		KIrcBot.c \
+		kernelmain.c	
